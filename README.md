@@ -271,13 +271,13 @@ Results will be saved in structured directories:
 ## Citation
 
 ```bibtex
-@software{Li_ReportBench_Evaluating_Deep_2024,
+@software{Li_ReportBench_Evaluating_Deep_2025,
    author = {Li, Minghao and Zeng, Ying and Cheng, Zhihao and Ma, Cong and Jia, Kai},
    license = {Apache-2.0},
-   month = dec,
+   month = aug,
    title = {{ReportBench: Evaluating Deep Research Agents via Academic Survey Tasks}},
    url = {https://github.com/ByteDance-BandAI/ReportBench},
    version = {1.1.0},
-   year = {2024}
+   year = {2025}
 }
 ```
