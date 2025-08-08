@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "如果您使用此软件，请按以下方式引用。"
+message: "If you use this repo, please cite it as follows."
 title: "ReportBench: Evaluating Deep Research Agents via Academic Survey Tasks"
 version: 1.1.0
 date-released: 2025-08-08
