@@ -86,7 +86,7 @@ We evaluated two Deep Research products alongside their corresponding base LLMs 
 | gemini-2.5-flash             |     0.237 |  0.012 |    5.47 |          44.88% |           12.1 |       98.52% |                11.5 |
 | gemini-2.5-pro               |     0.269 |  0.010 |    4.27 |          59.24% |            6.58|       96.08% |                 9.35|
 | o3                           |     0.299 |  0.031 |   12.26 |          31.43% |           16.16|       82.22% |                11.51|
-| gcp-claude4-sonnet           |     0.337 |  0.021 |    6.74 |          73.67% |           14.93|       92.64% |                17.07|
+| claude4-sonnet           |     0.337 |  0.021 |    6.74 |          73.67% |           14.93|       92.64% |                17.07|
 
 *Table 1. Performance metrics of Deep Research products and their base models.*
 
@@ -98,7 +98,7 @@ We evaluated two Deep Research products alongside their corresponding base LLMs 
 #### Model-Level  
 - **OpenAI vs. o3**: Comparable retrieval metrics, but Deep Research produces far more cited statements (88.2 vs. 16.16) and non-cited statements (38.9 vs. 11.51), and achieves much higher alignment (78.87% vs. 31.43%) and accuracy (95.83% vs. 82.22%).  
 - **Gemini Deep Research vs. gemini-2.5-pro**: Trades off precision (0.145 vs. 0.269) for higher recall and citation volume, while maintaining strong alignment (72.94% vs. 59.24%) but slightly lower non-cited statement accuracy.  
-- **gcp-claude4-sonnet**: Most balanced baseline—moderate precision (0.337), recall (0.021), citation consistency (73.67%), and non-cited statement accuracy (92.64%).  
+- **claude4-sonnet**: Most balanced baseline—moderate precision (0.337), recall (0.021), citation consistency (73.67%), and non-cited statement accuracy (92.64%).  
 
 ---
 
